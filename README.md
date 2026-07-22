@@ -35,7 +35,7 @@ Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esen
 
 <table>
   <tr>
-    <td><b>🎒 42 Madrid</b></td>
+    <td><b>🎒 42 Madrid </b></td>
     <td>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -85,7 +85,7 @@ Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esen
 |:--|:--|:--|
 | 🏫 | **42 Madrid** — Programación en C, algoritmia y arquitectura de software (peer-to-peer) | En curso |
 | 💻 | **DAW** — Desarrollo de Aplicaciones Web (Grado Superior) | Finalizado |
-| 🖥️ | **SMYR** — Sistemas Microinformáticos Y Redes (Grado Medio) | Finalizado |
+| 🖥️ | **SMYR** — Sistemas Microinformáticos y Redes (Grado Medio) | Finalizado |
 
 ---
 
@@ -105,8 +105,8 @@ Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alexxvr8&show_icons=true&hide_border=true&theme=tokyonight&title_color=61DAFB&icon_color=61DAFB" alt="Estadísticas de GitHub" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxvr8&layout=compact&hide_border=true&theme=tokyonight&title_color=61DAFB" alt="Lenguajes más usados" height="165">
+<img src="./metrics.svg" alt="Estadísticas de GitHub" width="48%">
+<img src="./metrics.languages.svg" alt="Lenguajes más usados" width="48%">
 
 </div>
 
