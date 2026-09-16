@@ -16,14 +16,14 @@
 
 ## 🧩 Sobre mí
 
-Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esencial: C, gestión de memoria y construir las herramientas desde cero antes de usarlas. Me gusta entender qué pasa por debajo, no solo que funcione.
+Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esencial: C, gestión de memoria y construir las herramientas desde cero antes de usarlas. Ahora mismo avanzo por los módulos de Python, dominando colecciones, generadores y operaciones con ficheros. Me gusta entender qué pasa por debajo, no solo que funcione.
 
 ```
-🔭  Ahora mismo   →  currículo de 42 · acabo de empezar con Python en la piscina
+🔭  Ahora mismo   →  currículo de 42 · módulos de Python (colecciones hechas, entrando en file I/O)
 🤝  En paralelo   →  TwoDevLab, junto a otro desarrollador: webs a medida, e-commerce y SEO
 🎮  Me interesa   →  el desarrollo de videojuegos: mecánicas, motores y game feel
 🧠  Disfruto con  →  la resolución de problemas lógicos: algoritmos, puzzles y retos de código
-💬  Pregúntame    →  sobre C, desarrollo web o cómo es sobrevivir a 42
+💬  Pregúntame    →  sobre C, Python, desarrollo web o cómo es sobrevivir a 42
 ```
 
 > [!NOTE]
@@ -89,15 +89,36 @@ Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esen
 
 ---
 
-## 📚 Proyectos de 42
+## 🚀 Proyectos de 42
 
-| Proyecto | Qué es | Lenguaje |
+### 🏁 Milestone 1
+> Los fundamentos en **C**: reconstruir las herramientas básicas desde cero — memoria, strings, lectura de ficheros y algoritmia — antes de poder usarlas.
+
+| Proyecto | Qué es | Estado |
 |:--|:--|:--|
-| [**Libft_42**](https://github.com/Alexxvr8/Libft_42) | Mi propia librería estándar de C: memoria, strings y listas enlazadas | `C` |
-| [**Printf_42**](https://github.com/Alexxvr8/Printf_42) | Reimplementación de `printf` con argumentos variádicos | `C` |
-| [**Get_next_line_42**](https://github.com/Alexxvr8/Get_next_line_42) | Lectura de ficheros línea a línea con buffers estáticos (obligatoria + bonus) | `C` |
-| [**PY_Module00**](https://github.com/Alexxvr8/PY_Module00) | Primeros pasos con Python: sintaxis, tipos y estructuras | `Python` |
-| [**PY_Module01**](https://github.com/Alexxvr8/PY_Module01) | Programación orientada a objetos y módulos en Python | `Python` |
+| [**Libft**](https://github.com/Alexxvr8/Libft_42) | Mi propia librería estándar de C: memoria, strings y listas enlazadas | ✅ |
+| [**Get_next_line**](https://github.com/Alexxvr8/Get_next_line_42) | Lectura de ficheros línea a línea con buffers estáticos (obligatoria + bonus) | ✅ |
+| [**Printf**](https://github.com/Alexxvr8/Printf_42) | Reimplementación de `printf` con argumentos variádicos | ✅ |
+| [**Push_swap**](https://github.com/Alexxvr8/push_swap) | Algoritmo de ordenación con dos pilas y set mínimo de operaciones | ✅ |
+
+### 🏁 Milestone 2
+> Salto a **Python** y a proyectos más grandes: del dominio del lenguaje por módulos a la resolución de laberintos y la administración de sistemas.
+
+| Proyecto | Qué es | Estado |
+|:--|:--|:--|
+| [**PY_Module00**](https://github.com/Alexxvr8/PY_Module00) | Primeros pasos con Python: sintaxis, tipos y estructuras | ✅ |
+| [**PY_Module01**](https://github.com/Alexxvr8/PY_Module01) | Programación orientada a objetos y módulos | ✅ |
+| [**PY_Module02**](https://github.com/Alexxvr8/PY_Module02) | Excepciones y manejo robusto de errores | ✅ |
+| [**PY_Module03**](https://github.com/Alexxvr8/PY_Module03) | Colecciones: listas, tuplas, sets, dicts, generadores y comprehensions | ✅ |
+| **PY_Module04** | Operaciones con ficheros y gestión de streams | 🔄 En proceso |
+| **PY_Module05** | — | 🔄 En proceso |
+| **PY_Module06** | — | 🔄 En proceso |
+| **PY_Module07** | — | 🔄 En proceso |
+| **PY_Module08** | — | 🔄 En proceso |
+| **PY_Module09** | — | 🔄 En proceso |
+| **PY_Module10** | — | 🔄 En proceso |
+| **A-Maze_ing** | Generación y resolución de laberintos | 🔜 Próximamente |
+| **Born2beroo** | Administración de sistemas y virtualización | 🔜 Próximamente |
 
 ---
 
