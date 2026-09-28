@@ -115,7 +115,7 @@ Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esen
 | [**PY_Module06**](https://github.com/Alexxvr8/PY_Module06) | Imports: paquetes, `__init__.py`, absolutos/relativos y deps circulares | ✅ |
 | [**PY_Module07**](https://github.com/Alexxvr8/PY_Module07) | Patrones de diseño: Factory, Capabilities y Strategy | ✅ |
 | [**PY_Module08**](https://github.com/Alexxvr8/PY_Module08) | Data engineering: entornos virtuales, paquetes y configuración de entorno | ✅ |
-| [**PY_Module09**](https://github.com/Alexxvr8/PY_Module09) | Validación de datos con Pydantic: modelos y estructuras anidadas | 🔄 |
+| [**PY_Module09**](https://github.com/Alexxvr8/PY_Module09) | Validación de datos con Pydantic: modelos y estructuras anidadas | ✅ |
 | **A-Maze_ing** | Generación y resolución de laberintos | 🔜 Próximamente |
 | **Born2beroot** | Administración de sistemas y virtualización | 🔜 Próximamente |
 
