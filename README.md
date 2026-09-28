@@ -16,10 +16,10 @@
 
 ## 🧩 Sobre mí
 
-Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esencial: C, gestión de memoria y construir las herramientas desde cero antes de usarlas. Ahora mismo avanzo por los módulos de Python, dominando colecciones, generadores y operaciones con ficheros. Me gusta entender qué pasa por debajo, no solo que funcione.
+Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esencial: C, gestión de memoria y construir las herramientas desde cero antes de usarlas. Ahora mismo avanzo por el **Milestone 2** del cursus, profundizando en Python: POO, patrones de diseño, imports, data engineering y validación de datos. Me gusta entender qué pasa por debajo, no solo que funcione.
 
 ```
-🔭  Ahora mismo   →  currículo de 42 · módulos de Python (colecciones hechas, entrando en file I/O)
+🔭  Ahora mismo   →  Milestone 2 de 42 · módulos de Python (validación con Pydantic)
 🤝  En paralelo   →  TwoDevLab, junto a otro desarrollador: webs a medida, e-commerce y SEO
 🎮  Me interesa   →  el desarrollo de videojuegos: mecánicas, motores y game feel
 🧠  Disfruto con  →  la resolución de problemas lógicos: algoritmos, puzzles y retos de código
@@ -102,23 +102,22 @@ Desarrollador web y estudiante en **42 Madrid**, donde estoy volviendo a lo esen
 | [**Push_swap**](https://github.com/Alexxvr8/push_swap) | Algoritmo de ordenación con dos pilas y set mínimo de operaciones | ✅ |
 
 ### 🏁 Milestone 2
-> Salto a **Python** y a proyectos más grandes: del dominio del lenguaje por módulos a la resolución de laberintos y la administración de sistemas.
+> Salto a **Python**: del dominio del lenguaje por módulos (POO, patrones, imports, data engineering) hacia proyectos de sistemas y virtualización.
 
 | Proyecto | Qué es | Estado |
 |:--|:--|:--|
-| [**PY_Module00**](https://github.com/Alexxvr8/PY_Module00) | Primeros pasos con Python: sintaxis, tipos y estructuras | ✅ |
-| [**PY_Module01**](https://github.com/Alexxvr8/PY_Module01) | Programación orientada a objetos y módulos | ✅ |
+| [**PY_Module00**](https://github.com/Alexxvr8/PY_Module00) | Fundamentos: sintaxis, tipos, funciones y recursividad | ✅ |
+| [**PY_Module01**](https://github.com/Alexxvr8/PY_Module01) | POO: clases, herencia y encapsulación | ✅ |
 | [**PY_Module02**](https://github.com/Alexxvr8/PY_Module02) | Excepciones y manejo robusto de errores | ✅ |
 | [**PY_Module03**](https://github.com/Alexxvr8/PY_Module03) | Colecciones: listas, tuplas, sets, dicts, generadores y comprehensions | ✅ |
-| **PY_Module04** | Operaciones con ficheros y gestión de streams | 🔄 En proceso |
-| **PY_Module05** | — | 🔄 En proceso |
-| **PY_Module06** | — | 🔄 En proceso |
-| **PY_Module07** | — | 🔄 En proceso |
-| **PY_Module08** | — | 🔄 En proceso |
-| **PY_Module09** | — | 🔄 En proceso |
-| **PY_Module10** | — | 🔄 En proceso |
+| [**PY_Module04**](https://github.com/Alexxvr8/PY_Module04) | Ficheros y streams: open/read/write y el with statement | ✅ |
+| [**PY_Module05**](https://github.com/Alexxvr8/PY_Module05) | POO avanzada: clases abstractas, polimorfismo y Protocol | ✅ |
+| [**PY_Module06**](https://github.com/Alexxvr8/PY_Module06) | Imports: paquetes, `__init__.py`, absolutos/relativos y deps circulares | ✅ |
+| [**PY_Module07**](https://github.com/Alexxvr8/PY_Module07) | Patrones de diseño: Factory, Capabilities y Strategy | ✅ |
+| [**PY_Module08**](https://github.com/Alexxvr8/PY_Module08) | Data engineering: entornos virtuales, paquetes y configuración de entorno | ✅ |
+| [**PY_Module09**](https://github.com/Alexxvr8/PY_Module09) | Validación de datos con Pydantic: modelos y estructuras anidadas | 🔄 |
 | **A-Maze_ing** | Generación y resolución de laberintos | 🔜 Próximamente |
-| **Born2beroo** | Administración de sistemas y virtualización | 🔜 Próximamente |
+| **Born2beroot** | Administración de sistemas y virtualización | 🔜 Próximamente |
 
 ---
 
